@@ -1,4 +1,9 @@
-### ## Oii, eu sou a Natália, uma advogada em transição de carreira para o mundo da Tecnologia! :)
+## Oii, eu sou a Natália,
+uma **desenvolvedora Frond-end** em formação,
+e estudante de Engenharia de Sofware e Sistemas para Internet.
+
+Aqui  você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento :smiley:
+
 
 <div align="center">
   <a href="https://github.com/nataliasguimaraes">
