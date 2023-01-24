@@ -1,5 +1,5 @@
-## Oii, eu sou a Natália,
-uma **desenvolvedora Frond-end** em formação,
+# Oii, eu sou a Natália,
+uma **desenvolvedora Web** em formação,
 e estudante de Engenharia de Sofware e Sistemas para Internet.
 
 Aqui  você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento :smiley:
@@ -11,11 +11,14 @@ Aqui  você pode acompanhar um pouco dos meus estudos e projetos em desenvolvim
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasguimaraes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  Atualmente estudo:
+🌱 <b>Linguagens e ferramentas em aprendizado:</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Nati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214360489-b5abd1ed-3612-448f-86d0-d934dff813ab.png">
+  <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358491-7894c9da-d142-46eb-b97c-ed4508d81792.png">
+  <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358921-384e6d46-022f-4ae8-aa4b-a8a5f9098711.png">
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/5VxQrdb.png">
 </div>
   
