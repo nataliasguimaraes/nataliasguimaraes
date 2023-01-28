@@ -22,7 +22,6 @@ Aqui  você pode acompanhar um pouco dos meus estudos e projetos em desenvolvim
   <img align="center" alt="Docker" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584923-d9f3ec66-9558-425a-8d24-c2b816f2f201.png">
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586360-9770dad2-d14c-4927-b238-56cffa0409a9.png">
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214585535-e73ee71d-804b-400c-adb9-e67fdea944fd.png">
-  <img align="center" alt="Linux" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214585540-742f932b-f868-4908-a65e-74094552ee53.png">
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104440384/214576775-90842255-a57b-4ee2-b6fd-68d93831aece.png">
  </div>
   
