@@ -1,16 +1,26 @@
-# Oii, eu sou a Natália,
+# Oii, eu sou a Natália Guimarães,
 uma **desenvolvedora Web** em formação,
-e estudante de Engenharia de Sofware e Sistemas para Internet.
+e estudante de Engenharia de Sofware/Sistemas para Internet.
 
-Aqui  você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento :smiley:
+Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento :smiley:
 
+<br>
 
 <div align="center">
   <a href="https://github.com/nataliasguimaraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasguimaraes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   
+ 
+ <br><br>
+
+<p align="right"><em>"Um ser humano deve transformar informação em inteligência ou conhecimento.<br>
+Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta"<br>
+Grace Hopper<em>
+</p>
+
+<br>
+
 #### :rocket: Linguagens, frameworks e ferramentas em aprendizado:
 <div>
   <img align="center" alt="Nati-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584934-2d91da15-143b-460f-82ce-ee3566d63349.png">
