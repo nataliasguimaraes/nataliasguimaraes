@@ -2,7 +2,10 @@
 uma **desenvolvedora Web** em formação,
 e estudante de Engenharia de Sofware/Sistemas para Internet.
 
-Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento :smiley:
+Participo do programa de Estágio em AWS Cloud Data Engineering da CompassUOL e tenho me dedicado
+ao aprendizado voltado à Análise de Dados.
+
+Aqui você pode acompanhar alguns dos meus estudos e projetos em desenvolvimento :smiley:
 
 <br>
 
