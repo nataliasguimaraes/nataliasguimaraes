@@ -1,6 +1,6 @@
 # Oii, eu sou a Natália Guimarães,
-uma **desenvolvedora Web** em formação,
-e estudante de Engenharia de Sofware/Sistemas para Internet e tenho me dedicado
+uma **Engenheira de Dados** em formação,
+estudante de Engenharia de Sofware/Sistemas para Internet e tenho me dedicado
 ao aprendizado voltado à Análise de Dados.
 
 Aqui você pode acompanhar alguns dos meus estudos e projetos em desenvolvimento :smiley:
