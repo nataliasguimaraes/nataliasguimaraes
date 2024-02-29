@@ -5,7 +5,6 @@ ao aprendizado voltado à Análise de Dados.
 
 Aqui você pode acompanhar alguns dos meus estudos e projetos em desenvolvimento :smiley:
 
-Obs. trabalhos desenvolvidos na área de dados estão em repositórios privados.
 <br>
 
 <div align="center">
