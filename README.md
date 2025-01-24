@@ -1,7 +1,7 @@
 # Oii, eu sou a Natália Guimarães,
-uma **Engenheira de Dados** em formação,
+uma **Analista de Dados**,
 estudante de Engenharia de Sofware/Sistemas para Internet e tenho me dedicado
-ao aprendizado voltado à Análise de Dados.
+ao aprendizado voltado à Business Intelligence (BI)
 
 Aqui você pode acompanhar alguns dos meus estudos e projetos em desenvolvimento :smiley:
 
