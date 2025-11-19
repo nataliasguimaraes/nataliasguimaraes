@@ -1,5 +1,5 @@
 # Oii, eu sou a Natália Guimarães,
-**Analista de Dados**, em especialização em Business Intelligence (BI)
+**Analista de Dados** especializada em Business Intelligence (BI)
 
 Aqui você pode acompanhar alguns dos meus estudos e projetos em desenvolvimento :smiley:
 
